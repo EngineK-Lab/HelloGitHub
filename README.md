@@ -1,2 +1,3 @@
 # HelloGitHub
-First-Repository
+This is First-Repository.
+Nice to meet you!
